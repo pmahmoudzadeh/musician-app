@@ -7,26 +7,26 @@ module.exports = {
   },
 
   davis: {
-    firstName: 'Gustav',
-    lastName: 'Ejstes',
+    firstName: 'Pasha',
+    lastName: 'Mahmoudzadeh',
     genre: 'Rock',
   },
 
   mccartney: {
-    firstName: 'Paul',
-    lastName: 'McCartney',
+    firstName: 'Chuck',
+    lastName: 'LoCascio',
     genre: 'ROCK',
   },
 
   hendrix: {
-    firstName: 'Jimi',
-    lastName: 'Hendrix',
+    firstName: 'Simon',
+    lastName: 'Sekhon',
     genre: 'Rock',
   },
 
   cobain: {
-    firstName: 'Kurt',
-    lastName: 'Cobain',
+    firstName: 'Angela',
+    lastName: 'Zhou',
     genre: 'Rock',
   },
 
