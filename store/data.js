@@ -1,8 +1,8 @@
 // A collection of musicians where the key is the unique id
 module.exports = {
   coltrane: {
-    firstName: 'Anna ',
-    lastName: 'Richmond',
+    firstName: 'ALi',
+    lastName: 'Syrous',
     genre: 'JAZZ',
   },
 
